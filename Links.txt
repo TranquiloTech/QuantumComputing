@@ -1,0 +1,6 @@
+Visual Studio Code
+https://code.visualstudio.com/
+
+IBM Quantum Platform
+https://quantum.ibm.com/
+
